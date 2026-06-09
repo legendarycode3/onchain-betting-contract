@@ -1,3 +1,4 @@
+# Onchain Betting Smart Contract
 
 ## Foundry
 
