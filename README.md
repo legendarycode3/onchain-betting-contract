@@ -7,7 +7,7 @@
 * ****Two-Player Fixed Betting System:**** The contract is designed for exactly two participants (`i_player1` and `i_player2`). Only these addresses are allowed to interact as bettors, ensuring a closed and controlled betting environment.
 * ****Secure Staking Mechanism:**** Only participants can stake (`onlyParticipants`). Must send exact bet amount, prevents double staking. Requires exact bet amount. Locks bet automatically when both players have staked.
 * ****Reentrancy Protection:**** Protects sensitive functions: `stakeBetToken` , `resolveBetAndPayout`, `refund`. This reduces risk of reentrancy attacks during ETH transfers.
-* ****Automated Payout:****  Upon resolution, the entire bet
+* ****Automated Payout:****  Upon resolution, the entire bet/wager pot is atomically transferred to the winning player.
 
 ## 🧠 Key Concepts Applied
 
