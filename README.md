@@ -8,6 +8,7 @@
 * ****Secure Staking Mechanism:**** Only participants can stake (`onlyParticipants`). Must send exact bet amount, prevents double staking. Requires exact bet amount. Locks bet automatically when both players have staked.
 * ****Reentrancy Protection:**** Protects sensitive functions: `stakeBetToken` , `resolveBetAndPayout`, `refund`. This reduces risk of reentrancy attacks during ETH transfers.
 * ****Automated Payout:****  Upon resolution, the entire bet/wager pot is atomically transferred to the winning player.
+* ****Participant-Restricted Interaction Layer:****
 
 ## 🧠 Key Concepts Applied
 
