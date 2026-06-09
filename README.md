@@ -3,6 +3,7 @@
 ## 📌 Features
 
 ## 🧠 Key Concepts Applied
+* ****Fixed Bet Amount Enforcement:****
 
 ## Foundry
 
