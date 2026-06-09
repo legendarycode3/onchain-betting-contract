@@ -1,7 +1,7 @@
 # Onchain Betting Smart Contract
 
 ## 📌 Features
-* ****Fixed Bet Amount Enforcement:**** Each player must stake
+* ****Fixed Bet Amount Enforcement:**** Each player must stake a predefined fixed amount (`i_betAmount`).
 
 ## 🧠 Key Concepts Applied
 
