@@ -22,7 +22,7 @@
 * ****Double-Spend Protection:**** Tracks if a player has  already staked and reverts (`Player__AlreadyStaked`)  if they attempt to stake a second time.
 * ****Zero-Address Validation:**** Prevents deployment if any participant or arbiter is assigned to the zero address (`0x000...000`).
 * ****Address Uniqueness:**** Reverts deployment if `player1` and `player2`  are set to the same address.
-* ****Immutable State Variables:**** The players, arbiter,
+* ****Immutable State Variables:**** The players, arbiter, and bet amount are defined as
 
 
 ## 🧠 Key Concepts Applied
