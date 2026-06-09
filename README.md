@@ -17,7 +17,7 @@
 * ****Winner Validation:****  Ensures the arbiter only designates the payout to a valid participant (`player1` or `player2`).
 * ****Resolved Status Enforcement:****  Ensures bets cannot be refunded once they reach the `Resolved` state.
 * ****Player Address Tracking:**** Utilizes `s_playerHasStaked`  to map and verify if a participant has already deposited their required stake.
-* ****Failure Handling:****
+* ****Failure Handling:**** Reverts the transaction with a
 
 ## 🧠 Key Concepts Applied
 
