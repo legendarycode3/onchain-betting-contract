@@ -2,7 +2,7 @@
 
 ## 📌 Features
 * ****Fixed Bet Amount Enforcement:**** Each player must stake a predefined fixed amount (`i_betAmount`).
-* ****Arbiter-Based Resolution:**** A trusted third party (i_arbiter) is responsible for: `Choosing the winner`, `
+* ****Arbiter-Based Resolution:**** A trusted third party (i_arbiter) is responsible for: "Choosing the winner". Triggering payout via `resolveBetAndPayout()`.
 
 ## 🧠 Key Concepts Applied
 
