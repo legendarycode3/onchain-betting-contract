@@ -1,9 +1,10 @@
 # Onchain Betting Smart Contract
 
 ## 📌 Features
+* ****Fixed Bet Amount Enforcement:**** Each player must stake
 
 ## 🧠 Key Concepts Applied
-* ****Fixed Bet Amount Enforcement:****
+
 
 ## Foundry
 
