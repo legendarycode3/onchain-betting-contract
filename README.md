@@ -23,7 +23,7 @@
 * ****Zero-Address Validation:**** Prevents deployment if any participant or arbiter is assigned to the zero address (`0x000...000`).
 * ****Address Uniqueness:**** Reverts deployment if `player1` and `player2`  are set to the same address.
 * ****Immutable State Variables:**** The players, arbiter, and bet amount are defined as `immutable`, permanently locking these critical parameters at deployment for trustlessness.
-* ****Multi-Party Constructor:**** Requires explicit addresses for `player1`, `player2`
+* ****Multi-Party Constructor:**** Requires explicit addresses for `player1`, `player2` , and the independent 
 
 
 
