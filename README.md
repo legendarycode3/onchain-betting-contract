@@ -11,7 +11,7 @@
 * ****Participant-Restricted Interaction Layer:**** Only `i_player1` and `i_player2` can interact with staking and refund functions. This prevents unauthorized external addresses from injecting or extracting funds.
 * ****Modifier-Based Security Enforcement:**** Access control is enforced via `onlyParticipants` and `onlyArbiter` modifiers, ensuring centralized and reusable permission logic.
 * ****Custom Errors:****  Utilizes gas-efficient custom errors, instead of `require` strings to save deployment and execution costs.
-* ****Anti-Overpayment Protection:****
+* ****Anti-Overpayment Protection:**** Any ETH sent beyond or
 
 ## 🧠 Key Concepts Applied
 
