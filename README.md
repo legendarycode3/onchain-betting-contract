@@ -18,6 +18,7 @@
 * ****Resolved Status Enforcement:****  Ensures bets cannot be refunded once they reach the `Resolved` state.
 * ****Player Address Tracking:**** Utilizes `s_playerHasStaked`  to map and verify if a participant has already deposited their required stake.
 * ****Failure Handling:**** Reverts the transaction with a `Transfer__Failed` error if the Ether transfer to the winner fails.
+* ****Auto-Lock Mechanism:****
 
 ## 🧠 Key Concepts Applied
 
