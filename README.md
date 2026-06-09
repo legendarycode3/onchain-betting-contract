@@ -14,7 +14,7 @@
 * ****Anti-Overpayment Protection:**** Any ETH sent beyond or below the required amount is rejected, ensuring strict financial correctness.
 * ****On-Chain Stake Tracking System:**** The contract tracks whether each participant has staked using boolean mapping, ensuring state clarity.
 * ****Total Pot Accumulation:**** Automatically increments the `s_totalPot` state variable as each player stakes.
-* ****Winner Validation:****  Ensures the arbiter only
+* ****Winner Validation:****  Ensures the arbiter only designates the payout to a valid
 
 ## 🧠 Key Concepts Applied
 
