@@ -10,6 +10,7 @@
 * ****Automated Payout:****  Upon resolution, the entire bet/wager pot is atomically transferred to the winning player.
 * ****Participant-Restricted Interaction Layer:**** Only `i_player1` and `i_player2` can interact with staking and refund functions. This prevents unauthorized external addresses from injecting or extracting funds.
 * ****Modifier-Based Security Enforcement:****
+* ****Custom Errors:****
 
 ## 🧠 Key Concepts Applied
 
