@@ -4,7 +4,7 @@
 * ****Fixed Bet Amount Enforcement:**** Each player must stake a predefined fixed amount (`i_betAmount`).
 * ****Two-Player Fixed Betting System:****
 * ****Arbiter-Based Resolution:**** A trusted third party (i_arbiter) is responsible for: "Choosing the winner". Triggering payout via `resolveBetAndPayout()`. This makes it a centralized arbitration model inside a smart contract framework.
-* ****The contract is designed for exactly:****
+* ****The contract is designed for exactly two participants (`i_player1` and `i_player2`).
 
 ## 🧠 Key Concepts Applied
 
