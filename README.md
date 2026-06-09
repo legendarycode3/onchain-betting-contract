@@ -21,7 +21,7 @@
 * ****Auto-Lock Mechanism:**** Automatically changes the bet status from `Pending` to `Locked` the exact moment both `player1` and `player2`  have submitted their stakes.
 * ****Double-Spend Protection:**** Tracks if a player has  already staked and reverts (`Player__AlreadyStaked`)  if they attempt to stake a second time.
 * ****Zero-Address Validation:**** Prevents deployment if any participant or arbiter is assigned to the zero address (`0x000...000`).
-* ****Address Uniqueness:****
+* ****Address Uniqueness:**** Reverts deployment if
 
 
 ## 🧠 Key Concepts Applied
