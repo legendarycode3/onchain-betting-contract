@@ -2,6 +2,9 @@
 
 ## 📌 Features
 * ****Fixed Bet Amount Enforcement:**** Each player must stake a predefined fixed amount (`i_betAmount`).
+* ****Address Uniqueness:**** Reverts deployment if `player1` and `player2`  are set to the same address.
+* ****Immutable State Variables:**** The players, arbiter, and bet amount are defined as `immutable`, permanently locking these critical parameters at deployment for trustlessness.
+* ****Multi-Party Constructor:**** Requires explicit addresses for `player1`, `player2` , and the independent `arbiter` upon deployment.
 * ****Two-Player Fixed Betting System:**** The contract is designed for exactly two participants (`i_player1` and `i_player2`). Only these addresses are allowed to interact as bettors, ensuring a closed and controlled betting environment.
 * ****Arbiter-Based Resolution:**** A trusted third party (i_arbiter) is responsible for: "Choosing the winner". Triggering payout via `resolveBetAndPayout()`. This makes it a centralized arbitration model inside a smart contract framework.
 * ****Two-Player Fixed Betting System:**** The contract is designed for exactly two participants (`i_player1` and `i_player2`). Only these addresses are allowed to interact as bettors, ensuring a closed and controlled betting environment.
@@ -21,9 +24,6 @@
 * ****Auto-Lock Mechanism:**** Automatically changes the bet status from `Pending` to `Locked` the exact moment both `player1` and `player2`  have submitted their stakes.
 * ****Double-Spend Protection:**** Tracks if a player has  already staked and reverts (`Player__AlreadyStaked`)  if they attempt to stake a second time.
 * ****Zero-Address Validation:**** Prevents deployment if any participant or arbiter is assigned to the zero address (`0x000...000`).
-* ****Address Uniqueness:**** Reverts deployment if `player1` and `player2`  are set to the same address.
-* ****Immutable State Variables:**** The players, arbiter, and bet amount are defined as `immutable`, permanently locking these critical parameters at deployment for trustlessness.
-* ****Multi-Party Constructor:**** Requires explicit addresses for `player1`, `player2` , and the independent `arbiter` upon deployment.
 
 
 
