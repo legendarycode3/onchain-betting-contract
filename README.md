@@ -12,7 +12,7 @@
 * ****Modifier-Based Security Enforcement:**** Access control is enforced via `onlyParticipants` and `onlyArbiter` modifiers, ensuring centralized and reusable permission logic.
 * ****Custom Errors:****  Utilizes gas-efficient custom errors, instead of `require` strings to save deployment and execution costs.
 * ****Anti-Overpayment Protection:**** Any ETH sent beyond or below the required amount is rejected, ensuring strict financial correctness.
-* ****On-Chain Stake Tracking System:**** The contract tracks whether each participant has staked using
+* ****On-Chain Stake Tracking System:**** The contract tracks whether each participant has staked using boolean mapping, ensuring state clarity.
 
 ## 🧠 Key Concepts Applied
 
