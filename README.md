@@ -42,6 +42,8 @@
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
+* ****Trustless Betting:****
+
 
 
 ## Foundry
