@@ -34,7 +34,7 @@
 * ****Custom Error(Gas Optimizer):**** A modern Solidity style that avoids require(string), for gas optization.
 * ****Checks-Effects-Interactions Pattern (CEI):**** The pattern is implemented in other to minimizes reentrancy risk and ensures state is updated before external calls.
 * ****Event Logging(On-chain Transparency Layer):**** Provides transparency for all actions. Events create an off-chain audit trail.
-* ****Mappings(Key Data Storage Concept):**** It allows fast lookup
+* ****Mappings(Key Data Storage Concept):**** It allows fast lookup of data associated with an address.
 
 
 ## 📂 Project Structure (Files)
