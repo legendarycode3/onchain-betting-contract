@@ -49,7 +49,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Reduced fraud risk:**** Smart contracts remove common issues like manipulation of payouts, hidden rules, or refusal to pay winners.
 * ****Automatic payouts:**** Winning conditions trigger instant settlement without human intervention or delays.
 * ****Immutable rules:**** Once deployed, the contract logic can’t easily be changed, preventing unfair rule changes mid-game.
-* ****Lower operational costs:****
+* ****Lower operational costs:**** No need for traditional intermediaries
 
 
 ## Foundry
