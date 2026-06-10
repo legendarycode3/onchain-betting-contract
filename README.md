@@ -51,7 +51,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Immutable rules:**** Once deployed, the contract logic can’t easily be changed, preventing unfair rule changes mid-game.
 * ****Lower operational costs:**** No need for traditional intermediaries like betting companies or payment processors, which reduces fees.
 * ****Programmable betting logic:**** You can create complex bets (parlays, conditional bets, prediction markets) that would be difficult in traditional systems.
-* ****Real-time verification of outcomes:**** With oracles, external events (sports scores, prices, weather data)
+* ****Real-time verification of outcomes:**** With oracles, external events (sports scores, prices, weather data) can be automatically verified and used.
 
 
 ## Foundry
