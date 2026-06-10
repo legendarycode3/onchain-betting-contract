@@ -30,7 +30,7 @@
 * ****Modifiers(Access Control Layer):**** Used to prevents unauthorized function execution, which keeps keeps the code clean and reusable. Implemented to "restrict staking" to only `only players` authorised and "restrict resolution"  to only `only arbiter` authorized.
 * ****Enums (State Machine Design Pattern):**** Prevents invalid actions at wrong stages. Enforces strict business logic flow. It is Used to implement a state machine
 * ****Contract Inheritance (is ReentrancyGuard):**** The contract inherits from ReentrancyGuard, a security utility (commonly from OpenZeppelin). It helps Prevents reentrancy attacks. (where a malicious contract repeatedly calls into a function before state updates complete). It is used in `stakeBetToken()`, `resolveBetAndPayout()`, `refund()`.
-* ****Constructor:****
+* ****Constructor(Initialization Logic):****
 
 
 ## 📂 Project Structure (Files)
