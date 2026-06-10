@@ -42,7 +42,7 @@
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
-* ****Trustless Betting(No Intermediaries Needed):**** The contract removes the need for a bookmaker or centralized betting platform.
+* ****Trustless Betting(No Intermediaries Needed):**** The onchain betting contracts removes the need for a bookmaker or centralized betting platform.
 
 
 
