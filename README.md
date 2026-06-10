@@ -35,7 +35,7 @@
 * ****Checks-Effects-Interactions Pattern (CEI):**** The pattern is implemented in other to minimizes reentrancy risk and ensures state is updated before external calls.
 * ****Event Logging(On-chain Transparency Layer):**** Provides transparency for all actions. Events create an off-chain audit trail.
 * ****Mappings(Key Data Storage Concept):**** It allows fast lookup of data associated with an address.
-* ****Data Types:**** The contract uses several Solidity
+* ****Data Types:**** The contract uses several Solidity data types that define how data is stored and interpreted.
 
 
 ## 📂 Project Structure (Files)
