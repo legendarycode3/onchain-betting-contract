@@ -27,7 +27,7 @@
 
 
 ## 🧠 Key Concepts Applied
-* ****Contract Inheritance (is ReentrancyGuard):****
+* ****Contract Inheritance (is ReentrancyGuard):**** The contract inherits from ReentrancyGuard,
 
 
 ## 📂 Project Structure (Files)
