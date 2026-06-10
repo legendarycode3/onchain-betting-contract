@@ -53,7 +53,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Programmable betting logic:**** You can create complex bets (parlays, conditional bets, prediction markets) that would be difficult in traditional systems.
 * ****Real-time verification of outcomes:**** With oracles, external events (sports scores, prices, weather data) can be automatically verified and used.
 * ****Provably Fair Randomness and Outcomes:**** When implemented  using secure oracle systems or verifiable randomness: Outcomes can be independently verified random events cannot be tampered with after the fact.
-* ****Faster Settlement and Real-Time Markets:**** No waiting for manual review, outcomes resolve as soon as conditions are met. Because blockchain transactions settle automatically:
+* ****Faster Settlement and Real-Time Markets:**** No waiting for manual review, outcomes resolve as soon as conditions are met. Because blockchain transactions settle automatically: Winnings can be paid instantly after event resolution
 
 
 ## Foundry
