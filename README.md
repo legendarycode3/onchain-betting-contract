@@ -27,7 +27,7 @@
 
 
 ## 🧠 Key Concepts Applied
-* ****Contract Inheritance (is ReentrancyGuard):**** The contract inherits from ReentrancyGuard, a security utility (commonly from OpenZeppelin). It helps Prevents reentrancy attacks
+* ****Contract Inheritance (is ReentrancyGuard):**** The contract inherits from ReentrancyGuard, a security utility (commonly from OpenZeppelin). It helps Prevents reentrancy attacks (where a malicious contract repeatedly
 
 
 ## 📂 Project Structure (Files)
