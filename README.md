@@ -42,7 +42,7 @@
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
-* ****Trustless Betting:****
+* ****Trustless Betting(No Intermediaries Needed):****
 
 
 
