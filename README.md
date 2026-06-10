@@ -48,7 +48,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Transparency and Verifiability:**** Every transaction in an onchain betting system is recorded on a blockchain: Bets placed are visible, odds logic (if coded onchain) is inspectable, Payouts can be independently verified.
 * ****Reduced fraud risk:**** Smart contracts remove common issues like manipulation of payouts, hidden rules, or refusal to pay winners.
 * ****Automatic payouts:**** Winning conditions trigger instant settlement without human intervention or delays.
-* ****Immutable rules:**** Once deployed,
+* ****Immutable rules:**** Once deployed, the contract logic can’t easily be changed,
 
 
 ## Foundry
