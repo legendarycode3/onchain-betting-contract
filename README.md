@@ -27,7 +27,7 @@
 
 
 ## 🧠 Key Concepts Applied
-* ****Modifiers(Access Control Layer):**** Used to prevents unauthorized function execution
+* ****Modifiers(Access Control Layer):**** Used to prevents unauthorized function execution, which keeps code clean and reusable
 * ****Enums (State Machine Design Pattern):**** Prevents invalid actions at wrong stages. Enforces strict business logic flow. It is Used to implement a state machine
 * ****Contract Inheritance (is ReentrancyGuard):**** The contract inherits from ReentrancyGuard, a security utility (commonly from OpenZeppelin). It helps Prevents reentrancy attacks. (where a malicious contract repeatedly calls into a function before state updates complete). It is used in `stakeBetToken()`, `resolveBetAndPayout()`, `refund()`.
 
