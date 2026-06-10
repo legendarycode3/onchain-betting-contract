@@ -44,7 +44,7 @@
 ## Why This Matters (Onchain Betting Smart Contract)
 
 * ****Trustless Betting(No Intermediaries Needed):**** The onchain betting contracts removes the need for a bookmaker or centralized betting platform. Users don’t need to trust a company to hold or distribute funds. Instead, Smart contract holds funds (escrow), rules are enforced automatically, arbiter only decides outcome (not custody). This automatically reduces fraud risk and increases fairness.
-* ****Onchain betting smart contracts matter:****
+* ****Onchain betting smart contracts matter:**** because they fundamentally change
 
 
 
