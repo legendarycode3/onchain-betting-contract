@@ -25,6 +25,7 @@
 * ****Double-Spend Protection:**** Tracks if a player has  already staked and reverts (`Player__AlreadyStaked`)  if they attempt to stake a second time.
 * ****Zero-Address Validation:**** Prevents deployment if any participant or arbiter is assigned to the zero address (`0x000...000`).
 
+## 🧠 Key Concepts Applied
 
 
 ## 🧠 Key Concepts Applied
