@@ -33,6 +33,7 @@
 * ****Constructor(Initialization Logic):**** Ensures contract integrate at deployment. It runs only once during deployment and Initializes immutable state.
 * ****Custom Error(Gas Optimizer):**** A modern Solidity style that avoids require(string), for gas optization.
 * ****Checks-Effects-Interactions Pattern (CEI):****
+* ****Event Logging:****
 
 
 
