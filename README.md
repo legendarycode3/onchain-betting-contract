@@ -66,6 +66,9 @@
 * Remix IDE or Foundry Development Kit & Vscode
 
 
+## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
+
+
 ## Why This Matters (Onchain Betting Smart Contract)
 Onchain betting smart contracts matter because they fundamentally change how wagering systems are built, trusted, and operated. Instead of relying on a centralized bookmaker or platform, the rules and execution of bets are handled by code deployed on a blockchain. Below are the key reasons this matters:
 
