@@ -84,6 +84,7 @@
    * The bet status progresses through `Resolved` and finally `Claimed`.
 4. ****Refund Phase****
    * If the bet has not been locked, participants may request a refund.
+   * Upon successful refunding,
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
