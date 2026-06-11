@@ -1,7 +1,7 @@
 # Onchain Betting Smart Contract
 
 ## Project Overview
-`Onchain Betting` is a decentralized
+`Onchain Betting` is a decentralized peer-to-peer Ethereum wagering
 
 ## 📌 Features
 * ****Fixed Bet Amount Enforcement:**** Each player must stake a predefined fixed amount (`i_betAmount`).
