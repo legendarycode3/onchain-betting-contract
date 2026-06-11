@@ -10,7 +10,7 @@
 * ****Winner-Takes-All Payout:**** The entire betting pool is transferred to the winning participant.
 * ****Refund Mechanism:**** Players can recover their stake if the bet has not yet been locked or resolved.
 * ****State Management:**** Uses a lifecycle-based status system (`Pending`, `Locked`, `Resolved`, `Claimed`, `Canceled`) to track bet progression.
-* ****Security Protections:****
+* ****Security Protections:**** Integrates OpenZeppelin's `ReentrancyGuard`
 
 
 ## 📌 Features
