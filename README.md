@@ -108,6 +108,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Checks-Effects-Interactions Pattern:**** Before transferring ETH to a winner, the contract updates internal state. This reduces the risk of reentrancy exploits.
 * ****Strict Participant Validation:**** The contract validates  critical addresses during deployment. This avoids configuration errors and role conflicts.
 * ****Double-Staking Prevention:****
+* ****Fixed Stake Amount Validation:****
 
 ## Foundry
 
