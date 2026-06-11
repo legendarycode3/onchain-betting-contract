@@ -42,6 +42,8 @@
 
 ## 📂 Project Structure (Files)
 
+## 🌐Technical Stack (Technologies Used)
+
 ##  Getting Started
 ### Prerequisites
 * Solidity Compiler, Version ^0.8.19 or higher.
