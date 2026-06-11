@@ -43,6 +43,7 @@
 ##  Getting Started
 ### Prerequisites
 * Solidity Compiler, Version ^0.8.19 or higher.
+* Remix IDE or Foundry Development Kit & Vscode
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
