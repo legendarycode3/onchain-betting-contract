@@ -76,7 +76,8 @@
    * The bet starts in the Pending state.
 2. ****Staking Phase****
    * Each player deposits the required ETH amount.
-   * Once both players stake successfully, the contract moves to the Locked state.
+   * Once both players stake successfully, the contract moves to the `Locked` state.
+   * No further staking or modifications are allowed.
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
