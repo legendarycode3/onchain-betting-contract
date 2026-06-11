@@ -102,6 +102,9 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Faster Settlement and Real-Time Markets:**** No waiting for manual review, outcomes resolve as soon as conditions are met. Because blockchain transactions settle automatically: Winnings can be paid instantly after event resolution, no banking delays or withdrawal queues, live betting can update in near real time.
 
 
+## Security Consideration
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
