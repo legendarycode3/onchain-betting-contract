@@ -75,6 +75,7 @@
      * Arbiter address.
    * The bet starts in the Pending state.
 2. ****Staking Phase****
+   * Each player deposits the required ETH amount.
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
