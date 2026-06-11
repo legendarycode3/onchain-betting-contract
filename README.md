@@ -72,7 +72,8 @@
      * Player 1 address.
      * Player 2 address.
      * Fixed bet amount.
-     * Arbiter address
+     * Arbiter address.
+   * The bet starts in the Pending state.
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
