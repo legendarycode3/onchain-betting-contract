@@ -43,7 +43,7 @@
 ## 📂 Project Structure (Files)
 
 ## 🌐Technical Stack (Technologies Used)
-* Solidity ^0.8.19
+* ****[Solidity](https://www.soliditylang.org/)**** -
 
 ##  Getting Started
 ### Prerequisites
