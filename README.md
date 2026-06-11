@@ -69,6 +69,7 @@
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
 1. ****Deployment****
    * The contract is initialized with:
+         * Player 1 address 
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
