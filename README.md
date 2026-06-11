@@ -105,7 +105,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 ## Security Consideration
 * ****Access Control Enforcement:**** The contract restricts sensitive operations using role-based modifiers.
 * ****Reentrancy Protection:**** The contract inherits from OpenZeppelin's `ReentrancyGuard` and applies the `nonReentrant` modifier to all functions that transfer ETH.
-* ****Checks-Effects-Interactions Pattern:**** Before transferring ETH to a winner, 
+* ****Checks-Effects-Interactions Pattern:**** Before transferring ETH to a winner, the contract updates internal state
 
 ## Foundry
 
