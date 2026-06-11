@@ -103,7 +103,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 
 
 ## Security Consideration
-* ****Access Control Enforcement:**** The contract restricts sensitive 
+* ****Access Control Enforcement:**** The contract restricts sensitive operations using role-based modifiers
 
 ## Foundry
 
