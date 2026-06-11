@@ -42,6 +42,7 @@
 
 ##  Getting Started
 ### Prerequisites
+* Solidity Compiler, Version ^0.8.19 or higher.
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
