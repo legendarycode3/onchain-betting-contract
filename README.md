@@ -103,14 +103,14 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 
 
 ## Security Consideration
-* ****Access Control Enforcement:**** The contract restricts sensitive operations using role-based modifiers.
+* ****Access Control Enforcement:**** The contract restricts sensitive operations using role-based modifiers. Basically a Strict 
 * ****Reentrancy Protection:**** The contract inherits from OpenZeppelin's `ReentrancyGuard` and applies the `nonReentrant` modifier to all functions that transfer ETH.
 * ****Checks-Effects-Interactions Pattern:**** Before transferring ETH to a winner, the contract updates internal state. This reduces the risk of reentrancy exploits.
 * ****Strict Participant Validation:**** The contract validates  critical addresses during deployment. This avoids configuration errors and role conflicts.
 * ****Double-Staking Prevention:**** The contract prevents participants from staking multiple times. This protects the integrity of the betting pool and prevents accidental overfunding.
 * ****Fixed Stake Amount Validation:**** Each participant must deposit exactly the predefined wager amount. This prevents stake manipulation and ensures fairness between bettors.
 * ****Event-Based Transparency:**** This provides an auditable on-chain history and improves transparency for users and frontends.
-* ****Custom Error:**** Custom errors for gas-efficient failure handling.
+* ****Custom Error:**** Custom errors for gas-efficient failure handling. 
 
 ## Foundry
 
