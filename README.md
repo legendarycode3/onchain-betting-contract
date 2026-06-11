@@ -78,6 +78,7 @@
    * Each player deposits the required ETH amount.
    * Once both players stake successfully, the contract moves to the `Locked` state.
    * No further staking or modifications are allowed.
+3. ****Resolution Phase****
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
