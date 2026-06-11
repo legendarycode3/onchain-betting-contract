@@ -1,5 +1,7 @@
 # Onchain Betting Smart Contract
 
+## Project Overview
+
 ## 📌 Features
 * ****Fixed Bet Amount Enforcement:**** Each player must stake a predefined fixed amount (`i_betAmount`).
 * ****Address Uniqueness:**** Reverts deployment if `player1` and `player2`  are set to the same address.
