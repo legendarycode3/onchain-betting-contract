@@ -47,7 +47,7 @@
 * ****[Remix IDE](https://remix.ethereum.org/)**** -  used it to write, and deploy the smart contract directly in the browser first.  A fastest way to get started, acting as a "no-setup" workshop for smart contract development. 
 * ****[Foundry](https://www.getfoundry.sh/)**** -  Development framework  and testing suite.
 * ****[Visual Studio Code](https://code.visualstudio.com/)**** - Install this IDE only if you are using foundry development kit rather than "Remix IDE" which is for quick prototying.
-* ****[OpenZeppelin ReentrancyGuard](https://docs.openzeppelin.com/contracts/4.x/api/security#ReentrancyGuard/)**** - OpenZeppelin's ReentrancyGuard is a security utility in Solidity used 
+* ****[OpenZeppelin ReentrancyGuard](https://docs.openzeppelin.com/contracts/4.x/api/security#ReentrancyGuard/)**** - OpenZeppelin's ReentrancyGuard is a security utility in Solidity used to prevent reentrancy attacks in smart contracts. 
 
 ##  Getting Started
 ### Prerequisites
