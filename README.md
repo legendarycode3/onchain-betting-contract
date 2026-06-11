@@ -7,7 +7,8 @@
 * ****Two-Player Betting Model:**** Only two designated players can participate in a bet.
 * ****Fixed Stake Amount:**** Both participants must deposit the exact predefined wager amount.
 * ****Arbiter-Based Resolution:**** A neutral arbiter resolves the outcome and selects the winner.
-* ****Winner-Takes-All Payout:**** The entire betting pool is 
+* ****Winner-Takes-All Payout:**** The entire betting pool is transferred to the winning participant.
+
 
 ## 📌 Features
 * ****Fixed Bet Amount Enforcement:**** Each player must stake a predefined fixed amount (`i_betAmount`).
