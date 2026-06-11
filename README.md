@@ -83,7 +83,7 @@
    * The full pot is transferred to the winner.
    * The bet status progresses through `Resolved` and finally `Claimed`.
 4. ****Refund Phase****
-   * If the bet has not been locked,
+   * If the bet has not been locked, participants may request a refund.
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
