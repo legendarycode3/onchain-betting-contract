@@ -109,7 +109,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Strict Participant Validation:**** The contract validates  critical addresses during deployment. This avoids configuration errors and role conflicts.
 * ****Double-Staking Prevention:**** The contract prevents participants from staking multiple times. This protects the integrity of the betting pool and prevents accidental overfunding.
 * ****Fixed Stake Amount Validation:**** Each participant must deposit exactly the predefined wager amount. This prevents stake manipulation and ensures fairness between bettors.
-* ****Event-Based Transparency:**** This provides an auditable
+* ****Event-Based Transparency:**** This provides an auditable on-chain history and
 
 ## Foundry
 
