@@ -5,6 +5,7 @@
 
 ### Core Features
 * ****Two-Player Betting Model:**** Only two designated players can participate in a bet.
+* ****Fixed Stake Amount:****
 
 
 ## 📌 Features
