@@ -8,6 +8,7 @@
 * ****Fixed Stake Amount:**** Both participants must deposit the exact predefined wager amount.
 * ****Arbiter-Based Resolution:**** A neutral arbiter resolves the outcome and selects the winner.
 * ****Winner-Takes-All Payout:**** The entire betting pool is transferred to the winning participant.
+* ****Refund Mechanism:****
 
 
 ## 📌 Features
