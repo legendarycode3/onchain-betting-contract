@@ -74,6 +74,7 @@
      * Fixed bet amount.
      * Arbiter address.
    * The bet starts in the Pending state.
+2. ****Staking Phase****
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
