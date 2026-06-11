@@ -79,6 +79,7 @@
    * Once both players stake successfully, the contract moves to the `Locked` state.
    * No further staking or modifications are allowed.
 3. ****Resolution Phase****
+   * The arbiter selects the winning participant.
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
