@@ -103,7 +103,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 
 
 ## Security Consideration
-* ****Access Control Enforcement:**** The contract restricts sensitive operations using role-based modifiers. Basically a Strict 
+* ****Access Control Enforcement:**** The contract restricts sensitive operations using role-based modifiers. Basically a Strict role-based access control 
 * ****Reentrancy Protection:**** The contract inherits from OpenZeppelin's `ReentrancyGuard` and applies the `nonReentrant` modifier to all functions that transfer ETH.
 * ****Checks-Effects-Interactions Pattern:**** Before transferring ETH to a winner, the contract updates internal state. This reduces the risk of reentrancy exploits.
 * ****Strict Participant Validation:**** The contract validates  critical addresses during deployment. This avoids configuration errors and role conflicts.
