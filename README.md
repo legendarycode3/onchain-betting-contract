@@ -41,6 +41,7 @@
 ## 📂 Project Structure (Files)
 
 ##  Getting Started
+### Prerequisites
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
