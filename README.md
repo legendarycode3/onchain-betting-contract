@@ -76,6 +76,7 @@
    * The bet starts in the Pending state.
 2. ****Staking Phase****
    * Each player deposits the required ETH amount.
+   * Once both players stake successfully,
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
