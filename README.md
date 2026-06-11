@@ -1,7 +1,7 @@
 # Onchain Betting Smart Contract
 
 ## Project Overview
-`Onchain Betting` is a decentralized peer-to-peer Ethereum wagering smart contract that enables two predefined participants to place equal ETH stakes on the outcome of an event. A trusted third-party arbiter is responsible for determining the winner and distributing the pooled funds. The contract emphasizes transparency, security, and trust-minimized bet settlement
+`Onchain Betting` is a decentralized peer-to-peer Ethereum wagering smart contract that enables two predefined participants to place equal ETH stakes on the outcome of an event. A trusted third-party arbiter is responsible for determining the winner and distributing the pooled funds. The contract emphasizes transparency, security, and trust-minimized bet settlement through on-chain execution.
 
 ## 📌 Features
 * ****Fixed Bet Amount Enforcement:**** Each player must stake a predefined fixed amount (`i_betAmount`).
