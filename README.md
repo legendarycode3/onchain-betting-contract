@@ -43,6 +43,7 @@
 ## 📂 Project Structure (Files)
 
 ## 🌐Technical Stack (Technologies Used)
+* Solidity ^0.8.19
 
 ##  Getting Started
 ### Prerequisites
