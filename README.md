@@ -80,6 +80,7 @@
    * No further staking or modifications are allowed.
 3. ****Resolution Phase****
    * The arbiter selects the winning participant.
+   * The full pot is transferred to the winner.
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
