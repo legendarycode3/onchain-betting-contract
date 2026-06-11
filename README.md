@@ -68,6 +68,7 @@
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
 1. ****Deployment****
+   * Compile the contract.
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
