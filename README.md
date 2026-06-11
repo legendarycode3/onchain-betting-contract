@@ -72,6 +72,7 @@
      * Player 1 address.
      * Player 2 address.
      * Fixed bet amount.
+     * Arbiter address
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
