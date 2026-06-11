@@ -46,7 +46,7 @@
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
 * ****[Remix IDE](https://remix.ethereum.org/)**** -  used it to write, and deploy the smart contract directly in the browser first.  A fastest way to get started, acting as a "no-setup" workshop for smart contract development. 
 * ****[Foundry](https://www.getfoundry.sh/)**** -  Development framework  and testing suite.
-* ****[Visual Studio Code](https://code.visualstudio.com/)**** - Install this IDE only if you are using foundry development kit
+* ****[Visual Studio Code](https://code.visualstudio.com/)**** - Install this IDE only if you are using foundry development kit rather than "Remix IDE" which is for quick prototying.
 
 ##  Getting Started
 ### Prerequisites
