@@ -71,6 +71,7 @@
    * The contract is initialized with:
      * Player 1 address.
      * Player 2 address.
+     * Fixed bet amount.
 
 
 ## Why This Matters (Onchain Betting Smart Contract)
