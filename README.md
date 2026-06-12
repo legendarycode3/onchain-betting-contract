@@ -81,6 +81,9 @@
      git clone https://github.com/legendarycode3/onchain-betting-contract/
    ```
 2. Navigate to the directory you created and cloned the file to:
+   ```shell
+      cd onchain-betting-contract
+   ```
 
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
