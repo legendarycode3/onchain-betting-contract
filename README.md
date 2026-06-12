@@ -87,6 +87,8 @@
 3. Compile the smart contract:
    `forge build`
 
+### Testing the contract 
+
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
 1. ****Deployment****
