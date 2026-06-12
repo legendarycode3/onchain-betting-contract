@@ -113,7 +113,7 @@ Runing all tests:
 * ****`i_player2`****: Stores the address of the second betting participant. Like `i_player1`, this value is permanently established during deployment and remains unchanged for the lifetime of the contract.
 * ****`i_arbiter`****: Stores the address of the trusted third party responsible for determining the outcome of the wager or bet.
 * ****`i_betAmount`****: Represents the exact amount of ETH that each participant must deposit to enter the wager or bet. This value is established during deployment and remains constant throughout the contract's lifetime. Every participant must stake precisely this amount when calling the staking function.
-* ****`s_betStatus`****: Tracks the current stage of the betting lifecycle. This variable determines which actions are allowed at a given point in time and helps enforce the logical progression
+* ****`s_betStatus`****: Tracks the current stage of the betting lifecycle. This variable determines which actions are allowed at a given point in time and helps enforce the logical progression of the wager from creation to completion.
 
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
