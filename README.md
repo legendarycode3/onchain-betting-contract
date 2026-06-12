@@ -100,7 +100,7 @@ Runing all tests:
 
 ## 📋Contract Details
 ### Functions:
-* ****`Constructor`****:
+* ****`Constructor`****: Initializes a new betting agreement
 
 ### Variables:
 
