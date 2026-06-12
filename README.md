@@ -77,6 +77,9 @@
 
 ### Building the Project (Using Foundry Development Kit )  - only if you are good using foundry kit
 1. Clone the repository:
+   ```shell
+     https://github.com/legendarycode3/onchain-betting-contract/
+   ```
 
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
