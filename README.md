@@ -117,6 +117,7 @@ Runing all tests:
 * ****`s_totalPot`****: Total amount of ETH currently held in the betting pool. The value increases whenever a participant stakes the required wager amount and decreases when funds are refunded or distributed. At the time of resolution, the full value of this variable is transferred to the winning participant.
 * ****`s_playerHasStaked`****: Tracks whether a participant has already submitted their wager or bet. Each participant's address maps to a boolean value indicating whether they have completed the staking process. The mapping prevents duplicate deposits from the same player and allows the contract to determine when both participants have funded the wager.
 * ****`s_hasClaimed`****: Intended to track whether a participant has already claimed funds associated with the wager.
+* ****`s_balances`****:
 
 
 
