@@ -87,7 +87,7 @@
 3. Compile the smart contract:
    `forge build`
 
-### Testing the contract 
+### Testing the contract  (Using Foundry Development Kit )
 
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
