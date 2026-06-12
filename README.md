@@ -101,6 +101,8 @@ Runing all tests:
 ## 📋Contract Details
 ### Functions:
 
+### Variables:
+
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
 1. ****Deployment****
