@@ -102,7 +102,7 @@ Runing all tests:
 ### Functions:
 * ****`Constructor`****: Initializes a new betting agreement between two players and assigns an arbiter responsible for determining the outcome. Helps Validates that all addresses are non-zero, ensures both players are different addresses, ensures the betting amount is greater than zero, ensures the arbiter is not one of the players, and sets the bet status to `Pending`, as an initial state .
 * ****`receive()`****: Prevents transactions from reverting when ETH is sent without calldata.
-* ****`stakeBetToken()`****: Allows either participant to deposit the agreed wager amount into the betting contract.
+* ****`stakeBetToken()`****: Allows either participant to deposit the agreed wager amount into the betting contract. It capability include:
 
 
 ### Variables:
