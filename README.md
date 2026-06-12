@@ -65,6 +65,8 @@
 * Solidity Compiler, Version ^0.8.19 or higher.
 * Remix IDE or Foundry Development Kit & Vscode
 
+### Recommendation (For Beginners)
+
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
 1. ****Deployment****
