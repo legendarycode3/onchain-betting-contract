@@ -66,6 +66,7 @@
 * Remix IDE or Foundry Development Kit & Vscode
 
 ### Recommendation (For Beginners)
+****NOTE (Use Remix IDE, for quick prototyping):****
 
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
