@@ -109,7 +109,7 @@ Runing all tests:
 
 
 ### Variables:
-* ****`i_player1`****: Stores the address
+* ****`i_player1`****: Stores the address of the first betting participant.
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
 1. ****Deployment****
