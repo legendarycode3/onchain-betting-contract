@@ -104,7 +104,7 @@ Runing all tests:
 * ****`receive()`****: Prevents transactions from reverting when ETH is sent without calldata.
 * ****`stakeBetToken()`****: Allows either participant to deposit the agreed wager amount into the betting contract. It capability include: Restricting staking to only registered authorized participants, requires the exact bet amount to be sent, prevents double staking, prevents double staking, records the participant's stake, automatically locks the bet when both players have staked.
 * ****`resolveBetAndPayout()`****: Allows the arbiter to determine the winner and transfer the entire betting pot to them.
-* ****`refund()`****: Allows a participant to
+* ****`refund()`****: Allows a participant to withdraw their stake when the
 
 
 ### Variables:
