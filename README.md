@@ -100,7 +100,8 @@ Runing all tests:
 
 ## 📋Contract Details
 ### Functions:
-* ****`Constructor`****: Initializes a new betting agreement between two players and assigns an arbiter responsible for determining the outcome. Helps Validates that all addresses are non-zero, ensures both players are different addresses, ensures the betting amount is greater than zero, ensures the arbiter is not one of the players, and sets the bet status to `Pending`, as an initial state . 
+* ****`Constructor`****: Initializes a new betting agreement between two players and assigns an arbiter responsible for determining the outcome. Helps Validates that all addresses are non-zero, ensures both players are different addresses, ensures the betting amount is greater than zero, ensures the arbiter is not one of the players, and sets the bet status to `Pending`, as an initial state .
+* ****`receive()****:
 
 ### Variables:
 
