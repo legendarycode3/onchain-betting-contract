@@ -97,7 +97,9 @@ Runing all tests:
        forge test --mt testFunctionName
    ```
 
+
 ## 📋Contract Details
+### Functions:
 
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
