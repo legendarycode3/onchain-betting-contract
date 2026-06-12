@@ -103,7 +103,7 @@ Runing all tests:
 * ****`Constructor`****: Initializes a new betting agreement between two players and assigns an arbiter responsible for determining the outcome. Helps Validates that all addresses are non-zero, ensures both players are different addresses, ensures the betting amount is greater than zero, ensures the arbiter is not one of the players, and sets the bet status to `Pending`, as an initial state .
 * ****`receive()`****: Prevents transactions from reverting when ETH is sent without calldata.
 * ****`stakeBetToken()`****: Allows either participant to deposit the agreed wager amount into the betting contract. It capability include: Restricting staking to only registered authorized participants, requires the exact bet amount to be sent, prevents double staking, prevents double staking, records the participant's stake, automatically locks the bet when both players have staked.
-* ****`resolveBetAndPayout()`****: Allows the arbiter to
+* ****`resolveBetAndPayout()`****: Allows the arbiter to determine the winner and
 
 
 ### Variables:
