@@ -100,6 +100,7 @@ Runing all tests:
 
 ## 📋Contract Details
 ### Functions:
+* ****`Constructor`****:
 
 ### Variables:
 
