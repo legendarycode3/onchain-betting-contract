@@ -71,6 +71,7 @@
 
 ## Usage
 ### Building the Project (Using Remix IDE):
+1. Copy the core smart contract file code `OnchainBetting.sol`
 
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
