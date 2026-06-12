@@ -100,7 +100,7 @@ Runing all tests:
 
 ## 📋Contract Details
 ### Functions:
-* ****`Constructor`****: Initializes a new betting agreement between two players and assigns
+* ****`Constructor`****: Initializes a new betting agreement between two players and assigns an arbiter responsible for determining the outcome.
 
 ### Variables:
 
