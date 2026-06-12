@@ -89,10 +89,13 @@
 
 ### Testing the contract  (Using Foundry Development Kit )
 Runing all tests:
-      ```shell
+   ```shell
           forge test 
-      ```
-Runing specific test:
+   ```
+</br> Runing specific test:
+   ```shell
+       forge test --mt testFunctionName
+   ```
 
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
