@@ -70,6 +70,7 @@
 
 
 ## Usage
+### Building the Project (Using Remix IDE):
 
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
