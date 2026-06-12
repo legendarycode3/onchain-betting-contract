@@ -88,6 +88,7 @@
    `forge build`
 
 ### Testing the contract  (Using Foundry Development Kit )
+Runing all tests:
 
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
