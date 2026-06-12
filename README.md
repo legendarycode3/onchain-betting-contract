@@ -84,7 +84,9 @@
    ```shell
       cd onchain-betting-contract
    ```
-3. Compile the smart contract: 
+3. Compile the smart contract:
+   `forge build`
+
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
 1. ****Deployment****
