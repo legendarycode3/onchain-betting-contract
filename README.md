@@ -48,7 +48,7 @@
 * ****Checks-Effects-Interactions Pattern (CEI):**** The pattern is implemented in other to minimizes reentrancy risk and ensures state is updated before external calls.
 * ****Event Logging(On-chain Transparency Layer):**** Provides transparency for all actions. Events create an off-chain audit trail.
 * ****Mappings(Key Data Storage Concept):**** It allows fast lookup of data associated with an address.
-* ****Data Types:**** The contract uses several Solidity data types that define how data is stored and interpreted.
+* ****Data Types:**** The contract uses several Solidity data types that define how data is stored and interpreted. 
 
 
 ## 📂 Project Structure (Files)
@@ -112,7 +112,7 @@ Runing all tests:
 * ****`i_player1`****: Stores the address of the first betting participant. This address is supplied during contract deployment and cannot be modified afterward due to the `immutable` keyword.
 * ****`i_player2`****: Stores the address of the second betting participant. Like `i_player1`, this value is permanently established during deployment and remains unchanged for the lifetime of the contract.
 * ****`i_arbiter`****: Stores the address of the trusted third party responsible for determining the outcome of the wager or bet.
-* ****`i_betAmount`****: Represents the exact amount of ETH that each participant must deposit to enter the wager or bet. This value is established during deployment and remains constant throughout the
+* ****`i_betAmount`****: Represents the exact amount of ETH that each participant must deposit to enter the wager or bet. This value is established during deployment and remains constant throughout the contract's lifetime. Every participant
 
 
 ## Usage Guide (How to use - E.G When using RemixIDE) - Workflow
