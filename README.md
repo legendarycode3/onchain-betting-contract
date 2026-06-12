@@ -118,7 +118,6 @@ Runing all tests:
 * ****`s_playerHasStaked`****: Tracks whether a participant has already submitted their wager or bet. Each participant's address maps to a boolean value indicating whether they have completed the staking process. The mapping prevents duplicate deposits from the same player and allows the contract to determine when both participants have funded the wager.
 * ****`s_hasClaimed`****: Intended to track whether a participant has already claimed funds associated with the wager.
 * ****`s_balances`****: Intended to store the internal balance associated with each participant.
-* ****`s_stakes`****:
 
 
 
