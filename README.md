@@ -115,7 +115,7 @@ Runing all tests:
 * ****`i_betAmount`****: Represents the exact amount of ETH that each participant must deposit to enter the wager or bet. This value is established during deployment and remains constant throughout the contract's lifetime. Every participant must stake precisely this amount when calling the staking function.
 * ****`s_betStatus`****: Tracks the current stage of the betting lifecycle. This variable determines which actions are allowed at a given point in time and helps enforce the logical progression of the wager from creation to completion.
 * ****`s_totalPot`****: Total amount of ETH currently held in the betting pool. The value increases whenever a participant stakes the required wager amount and decreases when funds are refunded or distributed. At the time of resolution, the full value of this variable is transferred to the winning participant.
-* ****`s_playerHasStaked`****: Tracks whether a participant has already submitted their wager or bet.
+* ****`s_playerHasStaked`****: Tracks whether a participant has already submitted their wager or bet. Each participant's address maps
 
 
 
