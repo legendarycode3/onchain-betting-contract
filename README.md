@@ -52,7 +52,7 @@
 
 
 ## 📂 Project Structure (Files)
-* ****`OnchainBetting.sol:`**** Main smart contract file containing
+* ****`OnchainBetting.sol:`**** Main smart contract file containing the complete On-Chain Betting system logic.
 
 
 ## 🌐Technical Stack (Technologies Used)
