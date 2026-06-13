@@ -73,7 +73,7 @@
 Purpose: </br>
 Handles all on-chain betting operations including stake deposits, bet settlement, winner payouts, refunds, participant validation, access control, and security enforcement for a two-player ETH betting agreement.
 
-* ****`OnchainBetting.t.sol`****: Test file written for validating the smart contract
+* ****`OnchainBetting.t.sol`****: Test file written for validating the smart contract behavior using the
 
 
 ## 🌐Technical Stack (Technologies Used)
