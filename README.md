@@ -64,6 +64,7 @@
     * Winner validation and arbiter-controlled bet resolution.
     * Full pot payout to the winning participant.
     * Refund functionality for eligible participants before bet resolution.
+    * Event emission for blockchain activity tracking.
 
 ## 🌐Technical Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
