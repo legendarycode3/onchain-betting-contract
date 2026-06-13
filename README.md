@@ -70,8 +70,9 @@
     * Reentrancy protection using OpenZeppelin's ReentrancyGuard.
     * State variables and helper/view functions for reading contract data. </br>
     
-Purpose:
-Handles all on-chain betting
+Purpose: </br>
+Handles all on-chain betting operations including stake deposits,
+
 
 ## 🌐Technical Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
