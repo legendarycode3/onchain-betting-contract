@@ -52,7 +52,7 @@
 
 
 ## 📂 Project Structure (Files)
-* ****`OnchainBetting.sol:`**** Main smart contract file containing the complete On-Chain Betting system logic. </br>
+* ****`OnchainBetting.sol`****: Main smart contract file containing the complete On-Chain Betting system logic. </br>
   It includes: </br>
     * Participant (player) management.
     * Arbiter authorization and validation.
@@ -72,6 +72,8 @@
     
 Purpose: </br>
 Handles all on-chain betting operations including stake deposits, bet settlement, winner payouts, refunds, participant validation, access control, and security enforcement for a two-player ETH betting agreement.
+
+* ****`OnchainBetting.t.sol`****:
 
 
 ## 🌐Technical Stack (Technologies Used)
