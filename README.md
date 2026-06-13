@@ -52,9 +52,9 @@
 
 
 ## 📂 Project Structure (Files)
-* ****`OnchainBetting.sol:`**** Main smart contract file containing the complete On-Chain Betting system logic.
-  It includes:
-
+* ****`OnchainBetting.sol:`**** Main smart contract file containing the complete On-Chain Betting system logic. </br>
+  It includes: </br>
+    * Participant (player) management.
 
 ## 🌐Technical Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
