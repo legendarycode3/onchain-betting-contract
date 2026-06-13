@@ -69,7 +69,8 @@
     * Security modifiers for participant and arbiter access control.
     * Reentrancy protection using OpenZeppelin's ReentrancyGuard.
     * State variables and helper/view functions for reading contract data. </br>
-Purpose: </br>
+    
+Purpose:
 Handles all on-chain betting
 
 ## 🌐Technical Stack (Technologies Used)
