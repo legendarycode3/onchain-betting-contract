@@ -97,7 +97,7 @@ Handles all on-chain betting operations including stake deposits, bet settlement
     * Verification of expected reverts and invalid interactions. </br>
 
 Purpose: </br> 
-Ensures the `OnchainBetting.sol` contract functions correctly,
+Ensures the `OnchainBetting.sol` contract functions correctly, securely,
 
 
 ## 🌐Technical Stack (Technologies Used)
