@@ -203,7 +203,8 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Provably Fair Randomness and Outcomes:**** When implemented  using secure oracle systems or verifiable randomness: Outcomes can be independently verified random events cannot be tampered with after the fact.
 * ****Faster Settlement and Real-Time Markets:**** No waiting for manual review, outcomes resolve as soon as conditions are met. Because blockchain transactions settle automatically: Winnings can be paid instantly after event resolution, no banking delays or withdrawal queues, live betting can update in near real time.
 * ****Enhanced Privacy and Control:**** Users can manage their identities, assets, and permissions directly rather than relying on centralized platforms to store and control their data.
-* ****Programmable Money:****
+* ****Programmable Money:**** Allows developers to
+
 
 
 ## Security Consideration
