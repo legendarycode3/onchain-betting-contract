@@ -67,7 +67,7 @@
     * Event emission for blockchain activity tracking.
     * Custom errors for gas-efficient error handling.
     * Security modifiers for participant and arbiter access control.
-    * Reentrancy protection using
+    * Reentrancy protection using OpenZeppelin's ReentrancyGuard.
 
 ## 🌐Technical Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
