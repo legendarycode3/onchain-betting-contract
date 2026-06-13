@@ -82,6 +82,7 @@ Handles all on-chain betting operations including stake deposits, bet settlement
     * Staking functionality tests.
     * Bet amount validation tests.
     * Participant authorization tests.
+    * Double-staking prevention tests.
 
 
 ## 🌐Technical Stack (Technologies Used)
