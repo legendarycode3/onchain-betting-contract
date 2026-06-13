@@ -96,7 +96,8 @@ Handles all on-chain betting operations including stake deposits, bet settlement
     * Edge case and security testing. 
     * Verification of expected reverts and invalid interactions. </br>
 
-Purpose: </br>
+Purpose: </br> 
+Ensures the OnchainBetting.sol
 
 
 ## 🌐Technical Stack (Technologies Used)
