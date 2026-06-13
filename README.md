@@ -56,6 +56,7 @@
   It includes: </br>
     * Participant (player) management.
     * Arbiter authorization and validation.
+    * Fixed ETH Bet configuration.
 
 ## 🌐Technical Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
