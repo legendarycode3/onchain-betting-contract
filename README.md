@@ -76,7 +76,7 @@ Handles all on-chain betting operations including stake deposits, bet settlement
 * ****`OnchainBetting.t.sol`****: Test file written for validating the smart contract behavior using the Foundry testing framework. </br>
   It includes: </br>
     * Unit tests for all major contract functions.
-    * Constructor initialization
+    * Constructor initialization and configuration tests.
 
 
 ## 🌐Technical Stack (Technologies Used)
