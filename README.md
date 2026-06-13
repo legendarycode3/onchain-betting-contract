@@ -91,6 +91,7 @@ Handles all on-chain betting operations including stake deposits, bet settlement
     * Winner payout verification.
     * Refund functionality tests.
     * Balance and total pot accounting tests.
+    * Revert and 
 
 
 ## 🌐Technical Stack (Technologies Used)
