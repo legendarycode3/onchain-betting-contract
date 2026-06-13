@@ -68,6 +68,7 @@
     * Custom errors for gas-efficient error handling.
     * Security modifiers for participant and arbiter access control.
     * Reentrancy protection using OpenZeppelin's ReentrancyGuard.
+    * State variables and helper/view
 
 ## 🌐Technical Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
