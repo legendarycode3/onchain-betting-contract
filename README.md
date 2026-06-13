@@ -94,7 +94,7 @@ Handles all on-chain betting operations including stake deposits, bet settlement
     * Revert and custom error validation.
     * Access control testing.
     * Edge case and security testing. 
-    * Verification of expected reverts Verification of expected reverts
+    * Verification of expected reverts and invalid interactions.
 
 
 ## 🌐Technical Stack (Technologies Used)
