@@ -60,7 +60,7 @@
     * Bet lifecycle management through multiple statuses (Pending, Locked, Resolved, Claimed, and Canceled).
     * ETH staking functionality for both participants.
     * Stake tracking and prevention of double staking.
-    * Automatic bet locking when
+    * Automatic bet locking when both players have deposited their stakes.
 
 ## 🌐Technical Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
