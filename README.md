@@ -57,7 +57,7 @@
     * Participant (player) management.
     * Arbiter authorization and validation.
     * Fixed ETH Bet configuration.
-    * Bet lifecycle management through multiple statuses
+    * Bet lifecycle management through multiple statuses (Pending, Locked, Resolved, Claimed, and Canceled).
 
 ## 🌐Technical Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
