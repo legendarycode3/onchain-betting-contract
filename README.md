@@ -80,6 +80,7 @@ Handles all on-chain betting operations including stake deposits, bet settlement
     * Address validation tests.
     * Player and arbiter setup verification.
     * Staking functionality tests.
+    * Bet amount validation tests.
 
 
 ## 🌐Technical Stack (Technologies Used)
