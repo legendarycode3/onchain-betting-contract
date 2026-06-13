@@ -93,7 +93,7 @@ Handles all on-chain betting operations including stake deposits, bet settlement
     * Balance and total pot accounting tests.
     * Revert and custom error validation.
     * Access control testing.
-    * Edge case and 
+    * Edge case and security testing.
 
 
 ## 🌐Technical Stack (Technologies Used)
