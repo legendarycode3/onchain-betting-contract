@@ -63,7 +63,7 @@
     * Automatic bet locking when both players have deposited their stakes.
     * Winner validation and arbiter-controlled bet resolution.
     * Full pot payout to the winning participant.
-    * Refund functionality for
+    * Refund functionality for eligible participants before bet resolution.
 
 ## 🌐Technical Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
