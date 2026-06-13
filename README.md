@@ -59,7 +59,7 @@
     * Fixed ETH Bet configuration.
     * Bet lifecycle management through multiple statuses (Pending, Locked, Resolved, Claimed, and Canceled).
     * ETH staking functionality for both participants.
-    * Stake tracking and
+    * Stake tracking and prevention of double staking.
 
 ## 🌐Technical Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
