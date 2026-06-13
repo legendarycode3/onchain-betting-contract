@@ -71,7 +71,7 @@
     * State variables and helper/view functions for reading contract data. </br>
     
 Purpose: </br>
-Handles all on-chain betting operations including stake deposits, bet settlement,
+Handles all on-chain betting operations including stake deposits, bet settlement, winner payouts,
 
 
 ## 🌐Technical Stack (Technologies Used)
