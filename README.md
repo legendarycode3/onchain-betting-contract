@@ -218,6 +218,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****Global Accessibility:**** Anyone with a compatible blockchain wallet and internet connection can participate, regardless of geographic location (subject to local laws and regulations).
  * ****24/7 Availability:**** The contract remains available at all times without requiring business hours, allowing users to place bets and receive payouts around the clock.
  * ****Programmable Betting Logic:****  Developers can create custom betting markets, multi-outcome events, prediction markets, parlay bets, tournaments, and other innovative betting structures.
+ * ****Fast Settlement:****
  
 
 ## Security Consideration
