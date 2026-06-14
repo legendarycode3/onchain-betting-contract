@@ -214,7 +214,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****Automatic Payouts:**** Once the outcome is determined , the smart contract distributes winnings automatically. Winners receive funds promptly without waiting for manual approval or payment processing.
  * ****Immutable Records:**** After deployment, betting transactions and historical outcomes are permanently stored on the blockchain. Creates a verifiable audit trail for dispute resolution and compliance purposes.
  * ****Reduced Fraud Risk:**** Because transactions are immutable and rules cannot be arbitrarily changed after deployment (unless designed to be upgradeable), opportunities for manipulation are significantly reduced.
- * ****Lower Operational Costs:****  Smart contracts can eliminate many middlemen
+ * ****Lower Operational Costs:****  Smart contracts can eliminate many middlemen and manual processes, potentially reducing
  * ****Global Accessibility:****
  
 
