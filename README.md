@@ -222,9 +222,11 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****Enhanced Security:**** Blockchain cryptography helps protect funds and transaction integrity. Properly audited smart contracts can reduce certain security risks associated with centralized platforms.
  * ****Non-Custodial Fund Management:**** Funds can remain under the control of the smart contract rather than a centralized operator, reducing custodial risk.
  * ****Public Auditability:**** Anyone can inspect the smart contract code (if open source) and verify how bets are handled, increasing confidence in the system.
+* ****Integration with DeFi:****
+* ****Censorship Resistance:****
  * ****Tokenized Incentives:****
  * ****Real-Time Fund Verification:****
- * ****Dispute Reduction:****
+ * ****Dispute Reduction:**** Since betting rules and payout calculations
  
 
 ## Security Consideration
@@ -236,8 +238,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Fixed Stake Amount Validation:**** Each participant must deposit exactly the predefined wager amount. This prevents stake manipulation and ensures fairness between bettors.
 * ****Event-Based Transparency:**** This provides an auditable on-chain history and improves transparency for users and frontends.
 * ****Custom Error:**** Custom errors for gas-efficient failure handling.
-* ****Integration with DeFi:****
-* ****Censorship Resistance:****
+
 
 ## Foundry
 
