@@ -220,7 +220,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****Programmable Betting Logic:****  Developers can create custom betting markets, multi-outcome events, prediction markets, parlay bets, tournaments, and other innovative betting structures.
  * ****Fast Settlement:****
  * ****Enhanced Security:****
- * ****Non-Custodial Fund Management:**** Funds can remain under the control
+ * ****Non-Custodial Fund Management:**** Funds can remain under the control of the smart contract rather than
  * ****Public Auditability:**** Anyone can inspect the smart contract code (if open source) and verify how bets are handled, increasing confidence in the system.
  
 
