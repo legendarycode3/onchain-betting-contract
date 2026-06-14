@@ -224,6 +224,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****Public Auditability:**** Anyone can inspect the smart contract code (if open source) and verify how bets are handled, increasing confidence in the system.
  * ****Tokenized Incentives:****
  * ****Real-Time Fund Verification:****
+ * ****Dispute Reduction:****
  
 
 ## Security Consideration
