@@ -212,11 +212,11 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****Transparency:**** All bets, rules, payouts, and transactions are recorded on a blockchain and can be publicly verified. Users can independently verify that bets are handled according to the contract's rules, reducing concerns about manipulation or hidden actions by the platform.
  * ****Trustless Operation:**** Smart contracts automatically execute predefined rules without requiring trust in a bookmaker, casino, or third-party operator. Participants rely on code rather than human intermediaries, reducing the risk of fraud or unfair intervention.
  * ****Automatic Payouts:**** Once the outcome is determined , the smart contract distributes winnings automatically. Winners receive funds promptly without waiting for manual approval or payment processing.
- * ****Immutable Records:**** After deployment, betting transactions and historical outcomes are permanently stored on the blockchain. Creates a verifiable audit trail for dispute resolution and compliance purposes.
+ * ****Immutable Records:**** After deployment, betting transactions and historical outcomes are permanently stored on the blockchain. Creates a verifiable audit trail for dispute resolution and compliance purposes. Every betting transaction is permanently stored
  * ****Reduced Fraud Risk:**** Because transactions are immutable and rules cannot be arbitrarily changed after deployment (unless designed to be upgradeable), opportunities for manipulation are significantly reduced.
  * ****Lower Operational Costs:****  Smart contracts can eliminate many middlemen and manual processes, potentially reducing fees associated with managing bets and processing payouts.
  * ****Global Accessibility:**** Anyone with a compatible blockchain wallet and internet connection can participate, regardless of geographic location (subject to local laws and regulations).
- * ****24/7 Availability:**** The contract remains available at all times without requiring business hours, allowing users to place bets and receive payouts around the clock.
+ * ****24/7 Availability:**** The contract remains available at all times without requiring business hours, allowing users to place bets and receive payouts around the clock. 
  
 
 ## Security Consideration
