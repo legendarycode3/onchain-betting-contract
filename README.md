@@ -225,7 +225,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Integration with DeFi:****
 * ****Censorship Resistance:****
  * ****Tokenized Incentives:****
- * ****Real-Time Fund Verification:****
+ * ****Real-Time Fund Verification:**** Users can verify that sufficient funds are locked
  * ****Dispute Reduction:**** Since betting rules and payout calculations are executed automatically by code, many common disputes between operators and bettors can be minimized.
  
 
