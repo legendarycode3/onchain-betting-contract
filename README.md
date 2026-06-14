@@ -219,6 +219,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****24/7 Availability:**** The contract remains available at all times without requiring business hours, allowing users to place bets and receive payouts around the clock.
  * ****Programmable Betting Logic:****  Developers can create custom betting markets, multi-outcome events, prediction markets, parlay bets, tournaments, and other innovative betting structures.
  * ****Fast Settlement:****
+ * ****Enhanced Security:****
  
 
 ## Security Consideration
