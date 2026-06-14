@@ -215,6 +215,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****Immutable Records:**** After deployment, betting transactions and historical outcomes are permanently stored on the blockchain. Creates a verifiable audit trail for dispute resolution and compliance purposes.
  * ****Reduced Fraud Risk:****
  * ****Lower Operational Costs:****
+ * ****Global Accessibility:****
  
 
 ## Security Consideration
