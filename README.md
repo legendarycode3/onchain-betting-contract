@@ -208,7 +208,8 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Encourages User Participation:**** Networks can reward users for contributing value, security, content, liquidity, or governance participation.
 
 
- ## Benefits of Vending Machine Smart Contracts
+ ## Benefits of Onchain Betting Smart Contract 
+ * ****Transparency:****
 
 
 ## Security Consideration
