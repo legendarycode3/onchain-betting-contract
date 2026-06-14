@@ -209,7 +209,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 
 
  ## Benefits of Onchain Betting Smart Contract 
- * ****Transparency:****
+ * ****Transparency:**** All bets, rules,
  * ****Trustless Operation:****
 
 
