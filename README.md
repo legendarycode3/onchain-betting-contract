@@ -210,7 +210,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 
  ## Benefits of Onchain Betting Smart Contract 
  * ****Transparency:**** All bets, rules, payouts, and transactions are recorded on a blockchain and can be publicly verified. Users can independently verify that bets are handled according to the contract's rules, reducing concerns about manipulation or hidden actions by the platform.
- * ****Trustless Operation:**** Smart contracts automatically execute predefined rules without requiring trust in a bookmaker, casino,
+ * ****Trustless Operation:**** Smart contracts automatically execute predefined rules without requiring trust in a bookmaker, casino, or third-party operator.
 
 
 ## Security Consideration
