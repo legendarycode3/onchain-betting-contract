@@ -223,7 +223,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****Non-Custodial Fund Management:**** Funds can remain under the control of the smart contract rather than a centralized operator, reducing custodial risk.
  * ****Public Auditability:**** Anyone can inspect the smart contract code (if open source) and verify how bets are handled, increasing confidence in the system.
 * ****Integration with DeFi:****
-* ****Censorship Resistance:**** Decentralized blockchain infrastructure
+* ****Censorship Resistance:**** Decentralized blockchain infrastructure can make it more difficult for a single entity to shut
  * ****Tokenized Incentives:**** Platforms can reward users, liquidity providers, or market creators with tokens, encouraging ecosystem growth and participation.
  * ****Real-Time Fund Verification:**** Users can verify that sufficient funds are locked in the contract to cover potential payouts before placing a bet.
  * ****Dispute Reduction:**** Since betting rules and payout calculations are executed automatically by code, many common disputes between operators and bettors can be minimized.
