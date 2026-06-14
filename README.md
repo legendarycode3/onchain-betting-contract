@@ -216,7 +216,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****Reduced Fraud Risk:**** Because transactions are immutable and rules cannot be arbitrarily changed after deployment (unless designed to be upgradeable), opportunities for manipulation are significantly reduced.
  * ****Lower Operational Costs:****  Smart contracts can eliminate many middlemen and manual processes, potentially reducing fees associated with managing bets and processing payouts.
  * ****Global Accessibility:**** Anyone with a compatible blockchain wallet and internet connection can participate, regardless of geographic location (subject to local laws and regulations).
- * ****24/7 Availability:**** The contract remains available
+ * ****24/7 Availability:**** The contract remains available at all times without requiring business hours,
  
 
 ## Security Consideration
