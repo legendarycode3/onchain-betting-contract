@@ -221,7 +221,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****Fast Settlement:****
  * ****Enhanced Security:****
  * ****Non-Custodial Fund Management:****
- * ****Public Auditability:**** Anyone can inspect the smart contract code
+ * ****Public Auditability:**** Anyone can inspect the smart contract code (if open source) and verify how bets are
  
 
 ## Security Consideration
