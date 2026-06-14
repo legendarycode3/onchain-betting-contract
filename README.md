@@ -234,6 +234,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Event-Based Transparency:**** This provides an auditable on-chain history and improves transparency for users and frontends.
 * ****Custom Error:**** Custom errors for gas-efficient failure handling.
 * ****Integration with DeFi:****
+* ****Censorship Resistance:****
 
 ## Foundry
 
