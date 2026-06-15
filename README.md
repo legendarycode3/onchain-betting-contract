@@ -229,6 +229,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****Dispute Reduction:**** Since betting rules and payout calculations are executed automatically by code, many common disputes between operators and bettors can be minimized.
 
 ## Common Key UseCases of Onchain Betting Smart Contracts
+* ****Sports Betting:****
  
 
 ## Security Consideration
