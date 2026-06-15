@@ -235,7 +235,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Peer-to-Peer Betting:**** Peer-to-peer betting allows individuals to create custom wagers directly against one another. Instead of betting against a sportsbook, lock funds into a smart contract. The contract enforces the agreement by escrowing participant funds and releasing them according to predefined settlement conditions.
 * ****Binary Outcome Markets:**** Binary markets simplify betting into two possible outcomes: `Yes` or `No`. Participants buy positions based on their belief about the likelihood of an event occurring. Once resolved, winning positions receive payouts while losing positions expire worthless.
 * ****Cross-Chain Betting Ecosystems:**** Modern betting protocols increasingly support multiple blockchain networks. Users from different ecosystems can participate in shared betting markets while retaining custody of assets on their preferred chains. Cross-chain messaging and interoperability protocols coordinate liquidity , settlements, and market states across networks.
-* ****Automated Market Maker (AMM) Betting:**** Instead of matching bettors against each other, liquidity providers deposit funds into betting pools. Users then place bets against the pool itself.
+* ****Automated Market Maker (AMM) Betting:**** Instead of matching bettors against each other, liquidity providers deposit funds into betting pools. Users then place bets against the pool itself. This model mirrors
 
  
 
