@@ -233,7 +233,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Prediction Markets:**** Prediction markets allow users to speculate on the outcome of future events by purchasing positions that represent possible outcomes. These markets function as decentralized forecasting systems where collective market activity generates probability estimates for real-world events. Participants can create markets around virtually any verifiable event, including politics, economics, technology, science, business, and global affairs. Market prices continuously adjust based on participant sentiment and information.
 * ****Crypto Price Prediction Markets:**** Users speculate on future cryptocurrency price movements by predicting whether an asset will rise, fall, or reach a target price within a specified timeframe. Settlement relies on decentralized price oracle networks that provide tamper-resistant market data.
 * ****Peer-to-Peer Betting:**** Peer-to-peer betting allows individuals to create custom wagers directly against one another. Instead of betting against a sportsbook, lock funds into a smart contract. The contract enforces the agreement by escrowing participant funds and releasing them according to predefined settlement conditions.
-* ****Binary Outcome Markets:****
+* ****Binary Outcome Markets:**** Binary markets simplify
  
 
 ## Security Consideration
