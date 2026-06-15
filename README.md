@@ -227,6 +227,8 @@ Onchain betting smart contracts matter because they fundamentally change how wag
  * ****Tokenized Incentives:**** Platforms can reward users, liquidity providers, or market creators with tokens, encouraging ecosystem growth and participation.
  * ****Real-Time Fund Verification:**** Users can verify that sufficient funds are locked in the contract to cover potential payouts before placing a bet.
  * ****Dispute Reduction:**** Since betting rules and payout calculations are executed automatically by code, many common disputes between operators and bettors can be minimized.
+
+## Common Key UseCases of Onchain Betting Smart Contracts
  
 
 ## Security Consideration
