@@ -230,7 +230,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 
 ## Common Key UseCases of Onchain Betting Smart Contracts
 * ****Sports Betting:**** Sports betting is one of the largest and most mature use cases for on-chain betting protocols. Users place wagers on sporting events such as football, basketball, tennis, cricket, MMA, boxing , and esports. The smart contract acts as a decentralized escrow, securely holding all stakes until the event concludes. When the match result becomes available, trusted oracle networks fetch verified data from official sports feeds and submit it to the blockchain. The contract then automatically calculates winnings and distributes rewards without requiring a centralized bookmaker.
-* ****Prediction Markets:**** Prediction markets allow users to speculate on the outcome of future events by purchasing positions that represent possible outcomes. These markets function as decentralized forecasting systems where collective market activity generates probability estimates for real-world events. Participants can create markets
+* ****Prediction Markets:**** Prediction markets allow users to speculate on the outcome of future events by purchasing positions that represent possible outcomes. These markets function as decentralized forecasting systems where collective market activity generates probability estimates for real-world events. Participants can create markets around virtually any verifiable event,
  
 
 ## Security Consideration
