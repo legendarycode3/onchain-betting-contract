@@ -152,7 +152,7 @@ Runing all tests:
 * ****`stakeBetToken()`****: Allows either participant to deposit the agreed wager or bet amount into the betting contract. It capability include: Restricting staking to only registered authorized participants, requires the exact bet amount to be sent, prevents double staking, prevents double staking, records the participant's stake, automatically locks the bet when both players have staked.
 * ****`resolveBetAndPayout()`****: Allows the arbiter to determine the winner and transfer the entire betting pot to them. This function allows the designated arbiter to determine the outcome of the wager or bet and distribute the accumulated betting pool to the winning participant.
 * ****`refund()`****: Allows a participant to withdraw their stake when the bet has not been successfully completed. The refund function allows a participant to recover their wager / bet under circumstances where the betting process cannot proceed to completion. This function is restricted to the registered participants and is intended to return deposited funds before a valid resolution occurs.
-* ****`checkBalance()`****: Returns the internally tracked balance associated with a participant.
+* ****`checkBalance()`****: Returns the internally tracked balance associated with a participant. 
 
 
 ### Variables:
@@ -233,7 +233,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Prediction Markets:**** Prediction markets allow users to speculate on the outcome of future events by purchasing positions that represent possible outcomes. These markets function as decentralized forecasting systems where collective market activity generates probability estimates for real-world events. Participants can create markets around virtually any verifiable event, including politics, economics, technology, science, business, and global affairs. Market prices continuously adjust based on participant sentiment and information.
 * ****Crypto Price Prediction Markets:**** Users speculate on future cryptocurrency price movements by predicting whether an asset will rise, fall, or reach a target price within a specified timeframe. Settlement relies on decentralized price oracle networks that provide tamper-resistant market data.
 * ****Peer-to-Peer Betting:**** Peer-to-peer betting allows individuals to create custom wagers directly against one another. Instead of betting against a sportsbook, lock funds into a smart contract. The contract enforces the agreement by escrowing participant funds and releasing them according to predefined settlement conditions.
-* ****Binary Outcome Markets:**** Binary markets simplify betting into two possible outcomes: `Yes` or `No`.
+* ****Binary Outcome Markets:**** Binary markets simplify betting into two possible outcomes: `Yes` or `No`. Participants buy positions based
  
 
 ## Security Consideration
