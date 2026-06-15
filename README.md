@@ -238,7 +238,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Automated Market Maker (AMM) Betting:**** Instead of matching bettors against each other, liquidity providers deposit funds into betting pools. Users then place bets against the pool itself. This model mirrors DeFi protocols where liquidity providers earn fees from betting activity.
 * ****Insurance and Risk Markets:**** These systems blur the line between betting and decentralized insurance. Users take positions on whether a specific event will occur and receive payouts if predefined conditions are met.
 * ****Tournament Bracket Challenges:**** Participants submit predictions for entire tournaments before competition begins. Points accumulate as predictions prove accurate, and rewards are distributed according to final rankings.
-* ****Gaming Outcome Betting:**** Players wager on outcomes within blockchain-based games. Betting
+* ****Gaming Outcome Betting:**** Players wager on outcomes within blockchain-based games. Betting can occur before,
 
  
 
