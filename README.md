@@ -1,5 +1,5 @@
 # Onchain Betting Smart Contract
-A secure peer-to-peer wagering/Bet protocol that enables two players to stake ETH on predefined outcomes, automatically locks funds once both parties commit,
+A secure peer-to-peer wagering/Bet protocol that enables two players to stake ETH on predefined outcomes, automatically locks funds once both parties commit, and leverages an independent arbiter
 
 
 ## Project Overview
