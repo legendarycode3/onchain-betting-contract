@@ -1,5 +1,5 @@
 # Onchain Betting Smart Contract
-A secure peer-to-peer
+A secure peer-to-peer wagering/Bet protocol that enables
 
 
 ## Project Overview
