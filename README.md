@@ -245,7 +245,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Skill-Based Competitions:****
 * ****Community and Social Betting:****
 * ****Decentralized Event Forecasting:****
-* ****DAO Governance Prediction Pools:**** Members of decentralized autonomous organizations (DAOs) can wager on the outcomes of governance proposals, protocol upgrades, treasury decisions, or voting initiatives. By allowing participants to place stakes on expected outcomes, governance prediction pools
+* ****DAO Governance Prediction Pools:**** Members of decentralized autonomous organizations (DAOs) can wager on the outcomes of governance proposals, protocol upgrades, treasury decisions, or voting initiatives. By allowing participants to place stakes on expected outcomes, governance prediction pools can encourage engagement
  
  
 
