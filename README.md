@@ -245,8 +245,8 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Skill-Based Competitions:****
 * ****Community and Social Betting:****
 * ****Decentralized Event Forecasting:****
-* ****DAO Governance Prediction Pools:****
-
+* ****DAO Governance Prediction Pools:**** Members of decentralized
+ 
  
 
 ## Security Consideration
