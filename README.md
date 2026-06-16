@@ -244,6 +244,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Esports and Gaming Challenges:****
 * ****Skill-Based Competitions:****
 * ****Community and Social Betting:****
+* ****Decentralized Event Forecasting:****
 
  
 
