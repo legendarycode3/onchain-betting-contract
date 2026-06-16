@@ -292,3 +292,5 @@ $ forge snapshot
 
 ## Author
 Built with ❤️ by [@legendarycode3](https://github.com/legendarycode3/)  </br>
+
+If you find this project helpful, please consider linking back to this repository.
