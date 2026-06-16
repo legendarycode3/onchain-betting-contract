@@ -243,6 +243,7 @@ Onchain betting smart contracts matter because they fundamentally change how wag
 * ****Gaming Outcome Betting:**** Players wager on outcomes within blockchain-based games. Betting can occur before, during, or after gameplay events. Smart contracts interact directly with game logic, enabling fully on-chain verification of results.
 * ****Esports and Gaming Challenges:****
 * ****Skill-Based Competitions:****
+* ****Community and Social Betting:****
 
  
 
